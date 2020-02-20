@@ -1,4 +1,4 @@
-package main.java.org.hashCodechallenge;
+package main;
 
 public class Book {
     int bookId;			//id of book.

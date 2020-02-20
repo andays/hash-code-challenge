@@ -1,4 +1,4 @@
-package main.java.org.hashCodechallenge;
+package main;
 
 import java.util.List;
 
